@@ -31,13 +31,13 @@ But, if pressed, how would you prove it?*
 Some examples of the output tables and charts generated from the Pymaceuticals analysis:  
   
 * The mouse count by time point bar chart:    
-![weather](Output/temp_scatter.PNG)  
+![weather](Output/temp_scatter.png)  
 
 * The 'promising drugs' quartiles table  
-![weather](Output/humidity_northern_reg.PNG)  
+![weather](Output/humidity_northern_reg.png)  
 
 * The linear regression model for mouse weight and tumor volume  
-![weather](Output/map.PNG)
+![weather](Output/map.png)
 
 ## Setup
 * This Github repository contains contains 2 project folders (WeatherPy and VacationPy) containing the respective analyses 
