@@ -1,3 +1,3 @@
-api_key = "9e12c1ff30f9b115154064a50835eb76"
+api_key = "YOUR API KEY GOES HERE"
 
-gkey = "AIzaSyCGf5y24ayNlTipA6hC7c0y4imSNeGULq8"
+gkey = "YOUR API KEY GOES HERE"
