@@ -2,7 +2,7 @@
 > Created by Dale Currigan, April 2021  
 > Week six python-api-challenge
 
-![Research](Resources/Laboratory.jpg)
+![weather](weather.jfif)
 
 ## Table of contents
 * [General info](#general-info)
