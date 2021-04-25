@@ -18,7 +18,7 @@ This project is in two parts:
 WeatherPy  
 An analysis of weather characteristics as ones location approaches the equator. Using the OpenWeatherAPI, the temperature, humidity, cloud cover and wind speed are analysed for over 500 cities international cities (selected at random).
 
-VacationPy
+VacationPy  
 Distribution of humidity data is mapped using the Google Maps API. Additionally, the Google Places API is utilised to find hotels close to cities with ideal weather characteristics.
 
 The briefing note for the project was as follows:  
